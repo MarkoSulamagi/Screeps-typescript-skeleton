@@ -78,9 +78,11 @@ Project files are in ./src.
 ./typings - Lo-Dash Typescript interfaces. Created automatically and no need to change anything.
 ```
 
-## Migrating your Javascript bot
+## Migrating your Javascript bot to Typescript
 
-Unfortunately I haven't been able to create tutorial for this yet. Issue about it is here: [Documentation for migrating your bot to Typescript #4]https://github.com/MarkoSulamagi/Screeps-typescript-skeleton/issues/4
+Unfortunately I haven't been able to create tutorial for this yet. Issue about it is here: [Documentation for migrating your bot to Typescript #4](https://github.com/MarkoSulamagi/Screeps-typescript-skeleton/issues/4)
+
+Because Typescript compiler can also read Javascript, migrating should be possible with fairly few changes to your code.
 
 ## Running the tests
 
