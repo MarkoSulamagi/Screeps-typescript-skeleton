@@ -17,6 +17,8 @@ Skeleton includes everything you need to get up and running as quickly as possib
 * TS interfaces for Screep's API
 * TS interfaces for Lo-Dash API
 
+> Small sample project using this skeleton can be found here [GitHUB link](https://github.com/MarkoSulamagi/Screeps-typescript-sample-project)
+
 > Screep API typescript type definitions are incuded as dependency. See their up to date status in here [GitHUB link](https://github.com/MarkoSulamagi/Screeps-Typescript-Declarations)
 
 Discussion in [screep's community forum](http://support.screeps.com/hc/en-us/community/posts/207116485-Writing-Screep-bots-with-Typescript?page=1#)
