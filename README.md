@@ -78,6 +78,10 @@ Project files are in ./src.
 ./typings - Lo-Dash Typescript interfaces. Created automatically and no need to change anything.
 ```
 
+#### How to extend Screeps prototypes?
+
+https://github.com/MarkoSulamagi/Screeps-typescript-skeleton/issues/9
+
 ## Migrating your Javascript bot to Typescript
 
 Unfortunately I haven't been able to create tutorial for this yet. Issue about it is here: [Documentation for migrating your bot to Typescript #4](https://github.com/MarkoSulamagi/Screeps-typescript-skeleton/issues/4)
@@ -95,14 +99,14 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/MarkoSulamagi/Screeps-typescript-skeleton/tags). 
 
 ## Authors
 
 * **Marko Sulamägi** - *Converted Cameron's work to quickly installable TS skeleton app* - [MarkoSulamagi](https://github.com/MarkoSulamagi)
 * **vanhouc** - *Screep project with TS functionality. His gulpfile and screep.d.ts was very useful.* - [vanhouc](https://github.com/vanhouc)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/MarkoSulamagi/Screeps-typescript-skeleton/graphs/contributors) who participated in this project.
 
 ## License
 
