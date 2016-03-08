@@ -5,9 +5,8 @@
     "noResolve": false,
     "noImplicitAny": false
   },
-  "exclude": [ "dist"],
 
-  "files": ["./src/**/*.ts", "./typings/**/*.ts", "./node_modules/screeps-typescript-declarations/dist/screeps.d.ts"],
+  "files": ["./src/**/*.ts", "./typings/**/*.ts", "node_modules/screeps-typescript-declarations/dist/screeps.d.ts"],
 
   "bundles": {
     "main": {
