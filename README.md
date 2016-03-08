@@ -78,6 +78,10 @@ Project files are in ./src.
 ./typings - Lo-Dash Typescript interfaces. Created automatically and no need to change anything.
 ```
 
+#### How to extend Screeps prototypes?
+
+https://github.com/MarkoSulamagi/Screeps-typescript-skeleton/issues/9
+
 ## Migrating your Javascript bot to Typescript
 
 Unfortunately I haven't been able to create tutorial for this yet. Issue about it is here: [Documentation for migrating your bot to Typescript #4](https://github.com/MarkoSulamagi/Screeps-typescript-skeleton/issues/4)
