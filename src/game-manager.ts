@@ -23,6 +23,10 @@ export namespace GameManager {
 
         console.log("This method is only run when new global is created by Screeps cycle");
 
+
+        Game.creeps['Worker1'].suicide();
+
+
         this.sampleVariable = "This is how you can use variables in GameManager";
     }
 
@@ -34,8 +38,8 @@ export namespace GameManager {
         // Example how to use loop function.
         // Let's assume we have a creep, who is called "Argos". We can do something like this:
         var harvester = new Harvester();
-        harvester.setCreep(Game.creeps.Argos);
-        harvester.tryHarvest(Game.creeps.Argos.room.find(FIND_SOURCES_ACTIVE)[0]);
+        harvester.setCreep(Game.creeps["Argos"]);
+        harvester.tryHarvest(Game.creeps["Argos"].room.find(FIND_SOURCES_ACTIVE)[0]);
     }
 
 }
