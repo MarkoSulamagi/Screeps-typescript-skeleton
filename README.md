@@ -1,6 +1,6 @@
-[DEPRECATED] Screeps-typescript-skeleton
+# [DEPRECATED] Screeps typescript skeleton project
 
-# Screeps typescript skeleton project
+# This skeleton is deprecated. You can find a better starter kit in here: https://github.com/screepers/screeps-typescript-starter
 
 This is a Screeps' project skeleton for Typescript programmers. The skeleton is based on vanhouc's work: https://github.com/vanhouc/screeps. 
 
