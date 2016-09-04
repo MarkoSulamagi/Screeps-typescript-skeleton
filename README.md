@@ -1,3 +1,5 @@
+[DEPRECATED] Screeps-typescript-skeleton
+
 # Screeps typescript skeleton project
 
 This is a Screeps' project skeleton for Typescript programmers. The skeleton is based on vanhouc's work: https://github.com/vanhouc/screeps. 
