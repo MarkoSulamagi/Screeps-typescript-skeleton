@@ -1,6 +1,6 @@
 # [DEPRECATED] Screeps typescript skeleton project
 
-# This skeleton is deprecated. You can find a better starter kit in here: https://github.com/screepers/screeps-typescript-starter
+## This skeleton is deprecated. You can find a better starter kit in here: https://github.com/screepers/screeps-typescript-starter
 
 This is a Screeps' project skeleton for Typescript programmers. The skeleton is based on vanhouc's work: https://github.com/vanhouc/screeps. 
 
@@ -8,7 +8,7 @@ Screeps is MMO strategy open world game for programmers. You write real JavaScri
 
 Read more: https://screeps.com/
 
-## Getting Started
+### Getting Started
 
 This skeleton is cross platform. You can easily run the project with Jetbrains PHPStorm or use it in your VStudio. TS->JS compiling is done by TSProject.
 
@@ -84,37 +84,37 @@ Project files are in ./src.
 
 https://github.com/MarkoSulamagi/Screeps-typescript-skeleton/issues/9
 
-## Migrating your Javascript bot to Typescript
+### Migrating your Javascript bot to Typescript
 
 Unfortunately I haven't been able to create tutorial for this yet. Issue about it is here: [Documentation for migrating your bot to Typescript #4](https://github.com/MarkoSulamagi/Screeps-typescript-skeleton/issues/4)
 
 Because Typescript compiler can also read Javascript, migrating should be possible with fairly few changes to your code.
 
-## Running the tests
+### Running the tests
 
 No tests. Testing can definitely be done, but it's out of this project's scope. 
 You can use Jasmine and Karma to create unit tests. You might need to implement some dependency injection system. 
 
-## Contributing
+### Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
+### Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/MarkoSulamagi/Screeps-typescript-skeleton/tags). 
 
-## Authors
+### Authors
 
 * **Marko Sulamägi** - *Converted Cameron's work to quickly installable TS skeleton app* - [MarkoSulamagi](https://github.com/MarkoSulamagi)
 * **vanhouc** - *Screep project with TS functionality. His gulpfile and screep.d.ts was very useful.* - [vanhouc](https://github.com/vanhouc)
 
 See also the list of [contributors](https://github.com/MarkoSulamagi/Screeps-typescript-skeleton/graphs/contributors) who participated in this project.
 
-## License
+### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+### Acknowledgments
 
 * Special thanks to Screep's team for this awesome game and communit in webchat (https://webchat.freenode.net/?channels=#screeps). 
 
